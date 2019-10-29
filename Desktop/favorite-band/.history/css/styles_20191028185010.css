@@ -22,17 +22,14 @@ ul.special {
     box-sizing: content-box;
     width: 400px;
     height: 500px;
+ }
+
+ul {
     text-align: right;
     text-align: center;
     font-size: 35px;
 }
 
-.column {
-       width: 500px; 
-       float:right;
-       font-size:30px;
-
-}
 img {
     float: left;
     

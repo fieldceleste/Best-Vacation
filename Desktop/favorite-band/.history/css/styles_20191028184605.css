@@ -7,12 +7,6 @@ h2 {
      font-size:30px;
      text-align: center;
 }
-h3{
-    text-align: left, center;
-    font-size: 30px;
-
-
-}
 ul.special {
     align-content:right ;
     margin: 10px;
@@ -21,17 +15,8 @@ ul.special {
     background-color: lightsalmon;
     box-sizing: content-box;
     width: 400px;
-    height: 500px;
-    text-align: right;
-    text-align: center;
-    font-size: 35px;
-}
-
-.column {
-       width: 500px; 
-       float:right;
-       font-size:30px;
-
+    height: 700px;
+ }
 }
 img {
     float: left;
@@ -45,3 +30,8 @@ img {
 }
 
 
+ul {
+    text-align: right;
+    text-align: center;
+    font-size: 40px;
+}
